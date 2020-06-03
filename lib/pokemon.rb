@@ -24,4 +24,8 @@ class Pokemon
     Pokemon.new(id: found_pokemon[0], name: found_pokemon[1], type: found_pokemon[2], db: db)
   end
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8e0ec0003967c66244f97545ee9db270ebfe3950
 end
